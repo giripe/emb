@@ -123,4 +123,12 @@ object ActivityIndicatorForm: TActivityIndicatorForm
     TabOrder = 3
     OnChange = cbxFormColorChange
   end
+  object Button1: TButton
+    Left = 20
+    Top = 77
+    Width = 75
+    Height = 25
+    Caption = 'Button1'
+    TabOrder = 8
+  end
 end

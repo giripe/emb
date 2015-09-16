@@ -43,6 +43,7 @@ type
     AI: TActivityIndicator;
     cbxFormColor: TColorBox;
     lblFormColor: TLabel;
+    Button1: TButton;
     procedure FormCreate(Sender: TObject);
     procedure chkAnimateClick(Sender: TObject);
     procedure trkFrameDelayChange(Sender: TObject);
